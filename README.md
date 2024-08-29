@@ -26,12 +26,3 @@ of measurement and control systems class.
 Initially it was written for ATMega16 microcontroller,
 but later ported to ATMega328p to work with **Arduino UNO.**
 
----
-
-This readme will be *hopefully* completed at some point...
-
-### License
-
-License? What is a license :sweat_smile:
-
-But yes, you can use it if you want :grin:
